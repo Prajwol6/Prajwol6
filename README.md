@@ -4,10 +4,10 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  ● ● ●   https://github.com/Prajwol6              🔒 [EN] ⋮ ║
+║  ● ● ●   https://github.com/Prajwol6              🔒 [EN] ⋮  ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║   > Prajwol6 — Security Researcher & CTF Player             ║
+║   > Prajwol6 — Security Researcher & CTF Player              ║
 ║   > Status: Online                                           ║
 ║   > Location: /home/cookies                                  ║
 ║                                                              ║
