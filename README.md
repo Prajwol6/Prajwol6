@@ -45,7 +45,14 @@ class Cookies:
 
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwol6&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=ffffff&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwol6&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=ffffff" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prajwol6/Prajwol6/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
   
   
 
