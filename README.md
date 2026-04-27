@@ -41,7 +41,10 @@ class Cookies:
 
 
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prajwol6&theme=dark&hide_border=true&background=0d0d0d&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwol6&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=ffffff" width="48%" />
+</p>
   
   
 
