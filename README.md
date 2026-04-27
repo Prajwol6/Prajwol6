@@ -1,16 +1,71 @@
-## Hi there 👋
 
-<!--
-**Prajwol6/Prajwol6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```
+ ██████╗ ██████╗ ██████╗ ██╗  ██╗██╗███████╗███████╗
+██╔════╝██╔═══██╗██╔═══██╗██║ ██╔╝██║██╔════╝██╔════╝
+██║     ██║   ██║██║   ██║█████╔╝ ██║█████╗  ███████╗
+██║     ██║   ██║██║   ██║██╔═██╗ ██║██╔══╝  ╚════██║
+╚██████╗╚██████╔╝╚██████╔╝██║  ██╗██║███████╗███████║
+ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
+```
+
+
+
+
+
+
+
+
+
+---
+
+```python
+class Cookies:
+    alias     = "Prajwol6"
+    interests = ["CTF", "Security Research", "Python Scripting"]
+    current   = "Sharpening my skills"
+    tools     = ["Burp Suite", "Nmap", "Wireshark", "Metasploit"]
+    quote     = "404: Not Found"
+```
+
+---
+
+### recon
+
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=39FF14)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=39FF14)
+![Bash](https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnubash&logoColor=39FF14)
+![Kali](https://img.shields.io/badge/Kali_Linux-1a1a2e?style=for-the-badge&logo=kalilinux&logoColor=39FF14)
+
+---
+
+### activity logs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
