@@ -5,30 +5,57 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a2e&height=200&section=header&text=Prajwol6&fontSize=50&fontColor=39FF14&animation=fadeIn" width="100%"/>
 </p>
----
 
 ---
 
-```python
-class Cookies:
-    alias     = "Prajwol6"
-    interests = ["CTF", "Security Research", "Python Scripting"]
-    current   = "Sharpening my skills"
-    tools     = ["Burp Suite", "Nmap", "Wireshark", "Metasploit"]
-    quote     = "404: Not Found"
+```txt
+BOOT SEQUENCE INITIATED...
+
+[✓] identity loaded
+[✓] curiosity detected
+[✓] caffeine levels stable
+[✓] sleep module corrupted
+
+entering offensive security mode...
 ```
 
 ---
 
-### ⚡ Currently
+**identity.sys**
 
-> 🔭 Sharpening skills in CTF & Security Research
-> 🛠️ Working with: Burp Suite · Nmap · Wireshark · Metasploit
-> 🌱 Learning: Reverse Engineering · Web Exploitation
+```python
+class Human:
+
+    def __init__(self):
+        self.alias = "Prajwol6"
+
+        self.interests = [
+            "security research",
+            "ctf",
+            "reverse engineering",
+            "automation"
+        ]
+
+        self.current_state = "building silently"
+
+    def philosophy(self):
+        return "skills > aesthetics"
+```
 
 ---
 
-### recon
+**currently.list**
+
+```bash
+> learning how systems break
+> writing random python scripts at 2am
+> solving ctf challenges
+> touching grass occasionally
+```
+
+---
+
+**stack/**
 
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=39FF14)
 ![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=39FF14)
@@ -37,7 +64,7 @@ class Cookies:
 
 ---
 
-### Social-media
+**signal.links**
 
 [![Instagram](https://img.shields.io/badge/Instagram-lufface_999-1a1a2e?style=for-the-badge&logo=instagram&logoColor=39FF14)](https://instagram.com/lufface_999)
 [![Gmail](https://img.shields.io/badge/Gmail-lufface10@gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:lufface10@gmail.com)
@@ -45,7 +72,7 @@ class Cookies:
 
 ---
 
-### Activity logs
+**activity.log**
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Prajwol6&hide_border=true&background=0d0d0d&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff" width="49%" />
@@ -54,11 +81,18 @@ class Cookies:
 
 ---
 
-### snake
+**snake**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Prajwol6/Prajwol6/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
+
+---
+
+```txt
+"There is no terminal goal.
+Only deeper understanding."
+```
 
 ---
 
@@ -67,5 +101,5 @@ class Cookies:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,100:000000&height=100&section=footer" width="100%"/>
 </p>
