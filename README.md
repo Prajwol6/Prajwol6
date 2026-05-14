@@ -44,6 +44,8 @@ class Cookies:
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-lufface_999-1a1a2e?style=for-the-badge&logo=instagram&logoColor=39FF14)](https://instagram.com/lufface_999)
+[![Gmail](https://img.shields.io/badge/Gmail-lufface10@gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:lufface10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prajwol_Rana-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/prajwol-rana-159831225)
 
 ---
 
