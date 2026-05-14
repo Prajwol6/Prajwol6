@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=39FF14&height=100&section=header&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=39FF14&height=100&section=header&fontColor=ffffff" width="100%"/>
 </p>
 
 ---
