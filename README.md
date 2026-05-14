@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Security+Researcher+%26+CTF+Player;Python+Scripter+%7C+Linux+Enthusiast;404%3A+Not+Found" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Security+Researcher+%26+Vulnerability+Disclosure;Network+Scanning+%7C+Service+Enumeration;Cybersecurity+Student+%40+Wentworth" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,9 +31,9 @@ class Human:
 
         self.interests = [
             "security research",
-            "ctf",
-            "reverse engineering",
-            "automation"
+            "vulnerability disclosure",
+            "network reconnaissance",
+            "penetration testing"
         ]
 
         self.current_state = "building silently"
@@ -47,20 +47,26 @@ class Human:
 **currently.list**
 
 ```bash
-> learning how systems break
-> writing random python scripts at 2am
-> solving ctf challenges
-> touching grass occasionally
+> BS Computer Information Systems @ Wentworth Institute of Technology
+> conducting independent vulnerability research
+> practicing penetration testing workflows
+> GPA: 3.75 / 4.0
 ```
 
 ---
 
 **stack/**
 
+![Kali](https://img.shields.io/badge/Kali_Linux-1a1a2e?style=for-the-badge&logo=kalilinux&logoColor=39FF14)
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=39FF14)
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=39FF14)
 ![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=39FF14)
 ![Bash](https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnubash&logoColor=39FF14)
-![Kali](https://img.shields.io/badge/Kali_Linux-1a1a2e?style=for-the-badge&logo=kalilinux&logoColor=39FF14)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=39FF14)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-1a1a2e?style=for-the-badge&logo=portswigger&logoColor=39FF14)
+![Nmap](https://img.shields.io/badge/Nmap-1a1a2e?style=for-the-badge&logo=nmap&logoColor=39FF14)
+![Metasploit](https://img.shields.io/badge/Metasploit-1a1a2e?style=for-the-badge&logo=metasploit&logoColor=39FF14)
+![Wireshark](https://img.shields.io/badge/Wireshark-1a1a2e?style=for-the-badge&logo=wireshark&logoColor=39FF14)
 
 ---
 
