@@ -51,10 +51,9 @@ class Cookies:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwol6&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=ffffff&cache_seconds=1" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwol6&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=ffffff&cache_seconds=1" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwol6&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=ffffff&cache_seconds=1800" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwol6&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=ffffff&cache_seconds=1800" width="49%" />
 </p>
-
 
 
 
