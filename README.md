@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=39FF14&height=100&section=header&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a2e&height=200&section=header&text=Prajwol6&fontSize=50&fontColor=39FF14&animation=fadeIn" width="100%"/>
 </p>
-
 ---
 
 ---
