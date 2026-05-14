@@ -40,6 +40,10 @@ class Cookies:
 ![Kali](https://img.shields.io/badge/Kali_Linux-1a1a2e?style=for-the-badge&logo=kalilinux&logoColor=39FF14)
 
 ---
+#social-media
+[![Instagram](https://img.shields.io/badge/Instagram-lufface_999-1a1a2e?style=for-the-badge&logo=instagram&logoColor=39FF14)](https://instagram.com/lufface_999)
+
+---
 
 ### Activity logs
 
